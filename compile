@@ -1,0 +1,1 @@
+gcc -o test test.c -L/usr/X11R6/lib -lX11 -lXtst
